@@ -28,7 +28,7 @@ public class MainClass {
 		// Experiment with the code below and configure the application
 		// to persist objects to your database.
 		//----------------------------------------------------------
-		
+		hibernateCreateExample();
 //		hibernateReadExample();
 //		hibernateReadAccount();
 //		getVsLoad();
